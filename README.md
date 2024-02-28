@@ -25,3 +25,15 @@ Here are some of the topics covered in this repository:
 
 Feel free to explore the repository and dive into the topics that interest you the most!
 
+## Getting Started
+
+To get started with this repository, you can clone the repository to your local machine. Follow the instructions below based on your operating system:
+
+### Windows
+
+1. Open a command prompt or Git Bash.
+2. Navigate to the directory where you want to clone the repository.
+3. Run the following command:
+    ```
+    git clone https://github.com/your-username/your-repo.git
+    ```
