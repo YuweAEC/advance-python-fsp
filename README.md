@@ -37,3 +37,23 @@ To get started with this repository, you can clone the repository to your local 
     ```
     git clone https://github.com/your-username/your-repo.git
     ```
+
+### Linux/MacOS
+
+1. Open a terminal.
+2. Navigate to the directory where you want to clone the repository.
+3. Run the following command:
+    ```
+    git clone https://github.com/your-username/your-repo.git
+    ```
+
+Once you have cloned the repository, you can start exploring the advanced Python topics and make contributions if you'd like.
+
+## Contributing
+
+Contributions are welcome! If you have any advanced Python topics that you would like to add to this repository, please follow the guidelines in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+
+## License
+
+This repository is licensed under the [MIT License](LICENSE).
+
